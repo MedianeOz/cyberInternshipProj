@@ -6,7 +6,7 @@
 ![CIA Triad](https://img.shields.io/badge/CIA%20Triad-Confidentiality%20%7C%20Integrity%20%7C%20Availability-purple)
 ![Digital Signatures](https://img.shields.io/badge/Digital%20Signatures-RSA--PSS-red)
 
-This repository contains the cybersecurity internship project completed by **Mediane Ozeir** at **XpertNurse**, a healthcare technology company. It is designed for beginner cybersecurity learners and covers foundational topics such as the CIA Triad, symmetric encryption, asymmetric encryption, digital signatures, and network security basics. The goal of the project was to build strong cybersecurity fundamentals through exported documentation from OneNote and practical Python demos that show how core security concepts work.
+This repository contains the cybersecurity internship project completed by **Mediane Ozeir** at **XpertNurse**, a healthcare technology company. It is designed for cybersecurity learners and covers foundational topics such as the CIA Triad, symmetric encryption, asymmetric encryption, digital signatures, and network security basics. The goal of the project was to build strong cybersecurity fundamentals through exported documentation from OneNote and practical Python demos that show how core security concepts work.
 
 ## 📁 Project Structure
 
