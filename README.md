@@ -19,6 +19,8 @@ cyberInternshipProj/
 │   ├── asymmetric_demo.py
 │   ├── digital_signature_demo.py
 │   └── port_ping_demo.py
+├── poster/
+│   └── cyber_hygiene_poster.pdf
 └── README.md
 ```
 
@@ -29,6 +31,7 @@ cyberInternshipProj/
 | `scripts/asymmetric_demo.py` | Demonstrates RSA public-key encryption and private-key decryption using OAEP padding with SHA-256. |
 | `scripts/digital_signature_demo.py` | Demonstrates RSA digital signing, verification, and tamper detection. |
 | `scripts/port_ping_demo.py` | Checks selected localhost TCP ports using Python's built-in `socket` library. |
+| `poster/cyber_hygiene_poster.pdf` | Bonus cyber hygiene awareness poster with practical online safety tips for non-technical users. |
 | `README.md` | Provides the project overview, setup instructions, script commands, topics covered, tech stack, and disclaimer. |
 
 ## ⚙️ Setup & Installation
@@ -95,6 +98,7 @@ Expected output: the script checks selected ports on `127.0.0.1` and prints whet
 - [x] Digital Signatures
 - [x] Network Security Basics
 - [x] Python demos for encryption, signing, verification, and localhost port checking
+- [x] Bonus: Cyber hygiene awareness poster
 
 ## 🛠 Tech Stack
 
